@@ -18,5 +18,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - code_of_conduct.md to run the show
 - .gitignore so that python compilation wont show up ever
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...HEAD
+[Unreleased]: https://github.com/perryBunn/aualerty/compare/v0.0.1...HEAD
 [0.0.1]: https://github.com/perryBunn/aualerty/releases/tag/v0.0.1
